@@ -6,7 +6,6 @@ This is a CV website built using HTML to showcase your personal and professional
 - A clean and organized codebase
 - The ability to display your personal information, such as your name, profession, contact information, and a short bio
 - A section to showcase your education and qualifications
-- A section to showcase your work experience, including your job title, company, and a brief description of your responsibilities
 - A section to showcase your skills and areas of expertise
 - A section to showcase your awards and achievements
 ## Technologies Used
